@@ -36,7 +36,7 @@ A MySQL and JavaScript-based system for tracking clothing stock and VIP customer
 Full-stack booking system using frontend forms and backend data handling.  
 *Tech:* JavaScript, MySQL  
 
-#### 📚 [BookNook App](https://github.com/laura-ashli7/CFG-Group-5-Project)
+#### 📚 [BookNook App](https://github.com/hollymx/Book-Nook-)
 Collaborative React project with routing and component-based architecture for browsing and saving book data.  
 *Tech:* React, JavaScript, Node.js  
 
