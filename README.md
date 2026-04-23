@@ -24,6 +24,22 @@ Graduate of the **Code First Girls Full-Stack Developer Spring 2025 Program**, a
 
 ### 🧩 Featured Projects  
 
+#### [Bitesize Bio Homepage]()
+Creating a more streamlined easy to use homepage for both desktop and mobile 
+*Tech:* PHP, JavaScript, Figma, Kadence, CSS, HTML  
+
+#### [Bitesize Bio Signup on Articles]()
+Introducing sign up on none sponsored articles to encourage users to sign up 
+*Tech:* PHP, JavaScript, Figma, Kadence, CSS, HTML 
+
+#### [Bitesize Bio Signup Landing Page]()
+Designing the landing page which appears when users sign up to the newsletter 
+*Tech:* PHP, JavaScript, Figma, Kadence, CSS, HTML 
+
+#### [Microscopy Focus ]()
+Recreating this website on wordpress using bionic blocks (like the rest of the websites owned by Bitesize Bio) 
+*Tech:* PHP, JavaScript, Figma, Kadence, CSS, HTML 
+
 #### 🎟️ [Cinema Ticket Booking App](https://github.com/hollymx/CFG-Assignments/tree/main/Assignment2)
 A responsive frontend app for booking cinema tickets.  
 *Tech:* HTML, CSS, JavaScript  
@@ -49,6 +65,7 @@ Collaborative React project with routing and component-based architecture for br
 ---
 
 ### 🎓 Education
+- **CFGmasters (Code First Girls)**  - Cyber Security *(2026)*
 - **Become a WordPress Developer: Unlocking Power With Code** - Udemy *(2025)*
 - **CFGdegree (Code First Girls)** – Full-Stack Developer *(2025)*  
 - **Diploma in UX Design** – The Design Institute *(2023)*  
@@ -59,7 +76,6 @@ Collaborative React project with routing and component-based architecture for br
 ### 📫 How to contact me
 📧 [hollymacleod@outlook.com](mailto:hollymacleod@outlook.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/holly-macleod-a36971165/)  
-🌐 [Portfolio Website](https://hollymx.github.io/portfolio)  
 
 ---
 
