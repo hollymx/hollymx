@@ -24,19 +24,19 @@ Graduate of the **Code First Girls Full-Stack Developer Spring 2025 Program**, a
 
 ### 🧩 Featured Projects  
 
-#### [Bitesize Bio Homepage]()
+#### 🧪 [Bitesize Bio Homepage](https://github.com/hollymx/BitesizeBio-homepage)
 Creating a more streamlined easy to use homepage for both desktop and mobile 
 *Tech:* PHP, JavaScript, Figma, Kadence, CSS, HTML  
 
-#### [Bitesize Bio Signup on Articles]()
+#### 🧪 [Bitesize Bio Signup on Articles](https://github.com/hollymx/BitesizeBio-ArticleSignUp)
 Introducing sign up on none sponsored articles to encourage users to sign up 
 *Tech:* PHP, JavaScript, Figma, Kadence, CSS, HTML 
 
-#### [Bitesize Bio Signup Landing Page]()
+#### 🧪 [Bitesize Bio Signup Landing Page](https://github.com/hollymx/BitesizeBio-SignUp-LandingPage)
 Designing the landing page which appears when users sign up to the newsletter 
 *Tech:* PHP, JavaScript, Figma, Kadence, CSS, HTML 
 
-#### [Microscopy Focus ]()
+#### 🧪 [Microscopy Focus Homepage](https://github.com/hollymx/MicroscopyFocus-recreation)
 Recreating this website on wordpress using bionic blocks (like the rest of the websites owned by Bitesize Bio) 
 *Tech:* PHP, JavaScript, Figma, Kadence, CSS, HTML 
 
