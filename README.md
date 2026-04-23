@@ -37,7 +37,7 @@ Designing the landing page which appears when users sign up to the newsletter
 *Tech:* PHP, JavaScript, Figma, Kadence, CSS, HTML 
 
 #### 🧪 [Microscopy Focus Homepage](https://github.com/hollymx/MicroscopyFocus-recreation)
-Recreating this website on wordpress using bionic blocks (like the rest of the websites owned by Bitesize Bio) 
+Recreating this homepage featuring slideshow and filtering options for articles on wordpress using bionic blocks (like the rest of the websites owned by Bitesize Bio) 
 *Tech:* PHP, JavaScript, Figma, Kadence, CSS, HTML 
 
 #### 🎟️ [Cinema Ticket Booking App](https://github.com/hollymx/CFG-Assignments/tree/main/Assignment2)
