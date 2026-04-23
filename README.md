@@ -2,7 +2,10 @@
 ### Junior Full-Stack Developer | UX-Focused
 
 I’m a Junior Full-Stack Developer with a background in **fashion design**, blending creativity with technical problem-solving to build digital experiences that are both visually appealing and user friendly.  
-Graduate of the **Code First Girls Full-Stack Developer Spring 2025 Program**, and recent **WordPress Developer internship** at *Bitesize Bio*.  
+
+With hands-on experience as a WordPress developer and a strong foundation in React, TypeScript, and modern frontend tools, I enjoy working across design and code. From shaping UI concepts in Figma to building responsive, user-focused interfaces.
+
+Graduate of the **Code First Girls Full-Stack Developer Spring 2025 Program**, and recent **WordPress Developer** at *Bitesize Bio*.  
 
 ---
 
@@ -23,6 +26,10 @@ Graduate of the **Code First Girls Full-Stack Developer Spring 2025 Program**, a
 ---
 
 ### 🧩 Featured Projects  
+
+#### 📚 [BookNook App](https://github.com/hollymx/Book-Nook-)
+Collaborative React project with routing and component-based architecture for browsing and saving book data.  
+*Tech:* React, JavaScript, Node.js  
 
 #### 🧪 [Bitesize Bio Homepage](https://github.com/hollymx/BitesizeBio-homepage)
 Creating a more streamlined easy to use homepage for both desktop and mobile 
@@ -52,16 +59,14 @@ A MySQL and JavaScript-based system for tracking clothing stock and VIP customer
 Full-stack booking system using frontend forms and backend data handling.  
 *Tech:* JavaScript, MySQL  
 
-#### 📚 [BookNook App](https://github.com/hollymx/Book-Nook-)
-Collaborative React project with routing and component-based architecture for browsing and saving book data.  
-*Tech:* React, JavaScript, Node.js  
-
 ---
 
 ### 💼 Experience Highlights
-- **WordPress Developer Intern** @ Bitesize Bio *(May–Nov 2025)*  
-  Developed and maintained custom WordPress themes and plugins, improving usability and visual consistency across multiple sites.
-
+- **WordPress Developer** @ Bitesize Bio *(May–Nov 2025)*  
+  Developed and maintained custom WordPress themes and components across multiple high-traffic sites
+  Improved UX and visual consistency across platforms through design-led frontend development
+  Collaborated with design and content teams to implement user-focused features
+  Built responsive, accessible UI components using PHP, JavaScript, and CSS
 ---
 
 ### 🎓 Education
